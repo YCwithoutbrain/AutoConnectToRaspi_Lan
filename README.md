@@ -1,3 +1,5 @@
 用于自动ssh连接局域网内的树莓派设备，需要在脚本里手动填入你的树莓派账号和密码。
 
-仅在windows测试过
+提供win和linux系统原生可用的两版脚本和通用的python脚本
+
+在windows和termux测试过
